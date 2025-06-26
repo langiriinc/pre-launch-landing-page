@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: /*?currency=
 Allow: /
 Sitemap: https://langiri.com/sitemap.xml
